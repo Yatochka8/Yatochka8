@@ -1,33 +1,35 @@
 ## Whoami - Yatochka? ![Profile views](https://komarev.com/ghpvc/?username=Yatochka8&color=red) 
 
-Technical administrator in the Minecraft field with over five years of experience.  
-JVM-based plugin developer specializing in system design, server optimization, and infrastructure reliability.  
+Full-Stack Developer. Working on personal projects and under NDA.
 
-_I mainly work with TownyAPI._
+### Tech Stack
 
-### Tech Stack.
+**Frontend:** React, TypeScript  
+**Backend:** Java, Rust, Python  
+**Infra:** Linux, networking & VPN infra.
 
-Linux (Ubuntu/Debian/Arch). I use arch btw. 🫀  
-VPN infra & networking (Reality, VLESS, WARP+, RemnaWave, 3x-ui).  
-Telegram bots (aiogram), backend/API integration, automation, reverse-proxy (NGINX).  
-Minecraft dev (Paper, Spring, ORMLite, Lombok, ACF, Okaeri-Configs 5.x, Towny API, Kyori Adventure, Gson).  
-Gradle, GitHub Actions, SQLite/MySQL, Bash, modular plugin architecture, i18n (UTF-8, Cyrillic).
+<blockquote>
+My own: <a href="https://bronz.cloud"><img src="https://raw.githubusercontent.com/Yatochka8/Yatochka8/main/bronzvpn-logo.svg" width="14" alt=""> BronzVPN</a>
+</blockquote>
+
+*Previously worked in Minecraft server development for 5+ years.*
+
+## Private projects only.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" title="Spring"/>
-  <img src="https://avatars.githubusercontent.com/u/45949248" width="28" title="Lombok"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28" title="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="28" title="NGINX"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="28" title="Gradle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="28" title="Arch Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="28" title="Intellij Idea"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" title="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="28" title="Rust"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript"/>  
 </p>
 
-### Private projects only.
